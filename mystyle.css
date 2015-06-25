@@ -1,0 +1,12 @@
+.mast-header {
+	color: ;
+	text-align: center;
+	background-image: url('https://download.unsplash.com/photo-1428550670225-15f007f6f1ba');
+	padding: 12em 0;
+	margin-top: -12
+}
+.mast-sub {
+	text-align: center;
+	margin-top: -12;
+	max-height: 12;
+}
